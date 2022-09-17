@@ -1,0 +1,162 @@
+
+
+1001	Marwah	Al-kerbash	One South	4300	1001	
+				
+CustomerID	12	22	33	44			
+							
+CustomerID
+1
+First name	2
+Last name	3	Address
+4	Postcode
+5	Password
+6
+
+CustomerID
+111
+First name
+222
+Last name
+333
+Address
+444
+Postcode
+555
+Password
+666
+
+CostumerID ,	First name ,	Last name ,	Address ,	Postcode ,	Password ,	
+
+
+
+
+CustomerID
+
+First name
+
+Last name
+
+Address
+
+Postcode
+
+Password
+
+
+CustomerID
+
+First name
+
+Last name
+
+Address
+
+Postcode
+
+Password
+
+
+CustomerID
+
+First name
+
+Last name
+
+Address
+
+Postcode
+
+Password
+
+
+CustomerID
+
+First name
+
+Last name
+
+Address
+
+Postcode
+
+Password
+
+
+CustomerID
+
+First name
+
+Last name
+
+Address
+
+Postcode
+
+Password
+
+
+CustomerID
+
+First name
+
+Last name
+
+Address
+
+Postcode
+
+Password
+
+
+CustomerID
+
+First name
+
+Last name
+
+Address
+
+Postcode
+
+Password
+
+
+CustomerID
+
+First name
+
+Last name
+
+Address
+
+Postcode
+
+Password
+
+
+CustomerID
+
+First name
+
+Last name
+
+Address
+
+Postcode
+
+Password
+
+
+CustomerID
+
+First name
+
+Last name
+
+Address
+
+Postcode
+
+Password
+
+

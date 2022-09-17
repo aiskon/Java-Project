@@ -1,0 +1,4 @@
+2510;Aisulu;987
+0219;Akula;654
+1520;Zhara;Sali
+1059;Salima;Zharas

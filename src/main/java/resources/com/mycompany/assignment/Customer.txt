@@ -1,0 +1,5 @@
+111;Ais;123;female
+112;Mari;1234;female
+113;Batyr;nolodec;male
+114;Daniyel;12345;male
+115;Beri;nahui;maleCustomerRegistration

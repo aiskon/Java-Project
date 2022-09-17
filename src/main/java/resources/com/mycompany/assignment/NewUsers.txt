@@ -1,0 +1,6 @@
+
+Ais;123;Aisulu;aiskon127@gmail.com;Female
+Batyr;Batyr;Batyr;Batyr;Male
+B;B;B;B;Male
+111;Ais;123;123;Male
+awsx;asd;asd;asd;Male
